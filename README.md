@@ -25,7 +25,6 @@ In my studies in Business College Helsinki we were learning about:
 :white_circle: TypeScript
 &nbsp;
 
-&nbsp;
 From the recent repos you can find pieces of code or scripts related some courses or coding challenges I have taken part of, and some random scripts I have needed for some purpose :D
 
 &nbsp;
