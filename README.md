@@ -26,13 +26,11 @@ In my studies in Business College Helsinki we were learning about:
 &nbsp;
 
 &nbsp;
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRosenholm&langs_count=8&theme=swift)
-&nbsp;
+From the recent repos you can find pieces of code or scripts related some courses or coding challenges I have taken part of, and some random scripts I have needed for some purpose :D
 
 &nbsp;
 
 If you have any questions or ideas to collaborate please contact me by &nbsp;
 
-email: contact@mariarosenholm.com &nbsp;
+email: maria.rosenholm@gmail.com &nbsp;
 
