@@ -1,6 +1,6 @@
 # Lovely to have you here!
 
-## Here you can find my Business College Helsinki and Metropolia University of Applied Sciences studies projects, hachathon projects and my own projects.
+## Here you can find my Business College Helsinki and Metropolia University of Applied Sciences studies projects, hackathon projects and my own projects.
 
 I have taken two courses from Metropolia University of Applied Sciences on **Java** and **C#**.
 
