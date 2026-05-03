@@ -33,5 +33,5 @@ In my current job I mainly work with Python and do automations with Powershell.
 
 If you have any questions or ideas to collaborate please contact me by &nbsp;
 
-email: maria.rosenholm@gmail.com &nbsp;
+email: contact@mariarosenholm.eu &nbsp;
 
